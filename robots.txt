@@ -1,0 +1,31 @@
+# 2026 AI-Native Robots Configuration - Zoella Balloons (Houston, TX)
+User-agent: *
+Allow: /
+
+# Explicit AI Agent Crawler Permissions
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# Sitemap Location
+Sitemap: https://zoella-balloons.vercel.app/sitemap.xml

@@ -1,0 +1,33 @@
+# Zoella Balloons
+
+> Luxury custom balloon designs, organic balloon garlands, and bespoke celebration backdrops based in Houston, Texas.
+
+Zoella Balloons creates elevated, photo-ready balloon installations for milestone birthdays, luxury baby showers, bridal showers, weddings, and corporate brand activations throughout the Greater Houston area.
+
+## Core Capabilities
+- Custom Organic Balloon Garlands & Arches
+- Architectural & Custom Cutout Backdrops
+- Themed Party Installations (Pastel, Vibrant, Luxe Monochromatic, Neutral Boho)
+- Corporate Brand Activations & Grand Openings
+- On-Site Delivery, Setup, and Styling
+
+## Geographic Service Area
+Houston, Texas and surrounding communities including:
+- River Oaks & Memorial
+- The Heights & Montrose
+- West University & Bellaire
+- The Galleria / Uptown
+- Katy & Sugar Land
+- The Woodlands & Cypress
+- Pearland & Clear Lake
+
+## Key Links
+- [Website](https://zoella-balloons.vercel.app/)
+- [Portfolio Gallery](https://zoella-balloons.vercel.app/gallery.html)
+- [Booking Enquiry Flow](https://zoella-balloons.vercel.app/booking.html)
+- [About Zoella](https://zoella-balloons.vercel.app/about.html)
+- [Instagram (@zoellaballoons)](https://www.instagram.com/zoellaballoons/)
+
+## How to Book
+1. Complete the booking enquiry generator on the website with your date, venue location, theme palette, and occasion.
+2. Send the prepared specification directly via Instagram Direct Message to @zoellaballoons to confirm date availability and receive a formal custom quote.

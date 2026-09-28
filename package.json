@@ -1,0 +1,19 @@
+{
+  "name": "zoella-balloons",
+  "version": "1.0.0",
+  "description": "Luxury custom balloon installations and event backdrops in Houston, TX",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs",
+    "preview": "node server.cjs"
+  },
+  "keywords": [
+    "balloon-decor",
+    "balloon-garlands",
+    "event-styling",
+    "houston",
+    "zoella-balloons"
+  ],
+  "author": "Zoella Balloons LLC",
+  "license": "UNLICENSED"
+}
